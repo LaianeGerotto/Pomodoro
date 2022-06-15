@@ -9,7 +9,7 @@ Praticar os conceitos de GUI Application - Graphical User Interface.
 
 ## Tecnologias/Bibliotecas
 - Python
-- Tkinter
+- [**Tkinter**](https://docs.python.org/3/library/tkinter.html)
 
 ## Demo
 
